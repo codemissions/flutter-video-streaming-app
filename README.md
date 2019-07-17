@@ -12,7 +12,7 @@ cd flutter-video-streaming-app/
 flutter run
 ```
 
-To run videos you will need to connect a physical device connected to your mac os laptop. 
+To run videos you will need a physical device connected to your mac os laptop. 
 
 Author: Tobechukwu Osakwe
 Copyright: Hakin9 Media
